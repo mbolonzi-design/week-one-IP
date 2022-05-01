@@ -99,10 +99,6 @@ button{
     padding: 5px;
 }
 
-.btn{
-    width: fit-content;
-}
-
 h1{
     color: #EC4067;
 }
@@ -113,7 +109,21 @@ h1{
 .mentors img{
     width: 300px;
 }
+.stories{
+	display: inline-block;
+}
+.stories img{
+	width: 400px;
+}
+.left{
+	display: inline-block;
+	
+}
+.right{
+	display: inline-block;
+}
 
 .tail{
     color: #EC4067;
+	display: inline-block;
 }
