@@ -51,7 +51,7 @@ span{
 .intro-text p {
 	margin-top: 5px;
 	font-size: 22px;
-	color: #585772;
+	color: #000000;
 }
 
 .cta {
@@ -94,7 +94,7 @@ button{
     text-align: center;
     border: none;
     border-radius: 10px;
-    width: 100px;
+    width: fit-content;
     height: 40px;
     padding: 5px;
 }
@@ -102,6 +102,7 @@ button{
 .btn{
     width: fit-content;
 }
+
 h1{
     color: #EC4067;
 }
@@ -113,3 +114,6 @@ h1{
     width: 300px;
 }
 
+.tail{
+    color: #EC4067;
+}
